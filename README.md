@@ -20,7 +20,7 @@ React Covid-19 Tracker is a basic API based web app, here you can get daily upda
 
 I have used [Netlify](https://www.netlify.com/) for hosting.
 
-[covid-19 Tracker](https://practical-wiles-a5bd3b.netlify.app/)
+You can visit the site here. [Covid-19 Tracker](https://practical-wiles-a5bd3b.netlify.app/)
 
 # License
 
